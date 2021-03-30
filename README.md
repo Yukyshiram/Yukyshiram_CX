@@ -25,10 +25,12 @@
   <img src="https://www.codefactor.io/repository/github/Yukyshiram/Yukyahiram/badge">
 </a>
 
+
 <a href="S">
   <img title="Sumireko"
        src="https://static.wikia.nocookie.net/epicrapbattlesofhistory/images/7/73/Sumireko2.gif/revision/latest/scale-to-width-down/340?cb=20150527130521"
 </a>
+  
   
 <a href="D">
   <img title="MAINTENED" 
