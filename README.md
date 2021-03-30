@@ -15,6 +15,8 @@
        src="https://img.shields.io/badge/Author-Yukyshiram-purple.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://github.com/Yukyshiram/Yukyshiram/watchers">
     <img title="Watching" 
@@ -25,6 +27,7 @@
   <img src="https://www.codefactor.io/repository/github/Yukyshiram/Yukyahiram/badge">
 </a>
 
+<br>
 
 <a href="S">
   <img title="Sumireko"
