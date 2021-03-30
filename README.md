@@ -45,7 +45,7 @@
 </p>
 
 ## Special Thanks to
-<a href="https://github.com/adiwajshing/Baileys">
+<a href="https://github.com/MhankBarBar/termux-wabot">
   <img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar/termux-wabot%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
