@@ -26,8 +26,9 @@
 
 <br>
 
-<a href="https://www.codefactor.io/repository/github/Yukyshiram/Yukyshiram">
-  <img src="https://www.codefactor.io/repository/github/Yukyshiram/Yukyahiram/badge">
+<a href="https://www.codefactor.io/repository/github/yukyshiram/yukyshiram">
+  <img src="https://www.codefactor.io/repository/github/yukyshiram/yukyshiram/badge" 
+    alt="CodeFactor" />
 </a>
 
 <br>
