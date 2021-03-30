@@ -2,8 +2,6 @@
 
 <p align="center">
 <img src="https://www.andersonkenya1.net/uploads/monthly_2020_10/734383125_SumirekoUsami.gif.29271015335795a850a236035766e090.gif" 
-     width="128" 
-     height="128"/>
 </p>
 
 <p align="center">
@@ -24,8 +22,7 @@
 </a>
 
 <a href="https://www.codefactor.io/repository/github/Yukyshiram/Yukyshiram">
-  <img src="https://www.codefactor.io/repository/github/Yukyshiram/Yukyahiram/badge" 
-       alt="CodeFactor" />
+  <img src="https://www.codefactor.io/repository/github/Yukyshiram/Yukyahiram/badge">
 </a>
 
 <a href="S">
