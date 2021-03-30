@@ -35,10 +35,11 @@
   <img title="Sumireko"
        src="https://static.wikia.nocookie.net/epicrapbattlesofhistory/images/7/73/Sumireko2.gif/revision/latest/scale-to-width-down/340?cb=20150527130521"
 </a>
-  
+
+<br>
   
 <a href="D">
-  <img title="MAINTENED" 
+  <img title="maintenance" 
        src="https://img.shields.io/badge/Mantenimiento-Activo-blue.svg"
        </a>
 </p>
