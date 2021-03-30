@@ -1,6 +1,5 @@
-<p>
-<h1 Hi, welcome to my first repository for whatsapp bot 👋>
-</p>
+### Hi, welcome to my first repository for whatsapp bot 👋
+
 
 <p align="center">
 <img src="https://www.andersonkenya1.net/uploads/monthly_2020_10/734383125_SumirekoUsami.gif.29271015335795a850a236035766e090.gif" 
