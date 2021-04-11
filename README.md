@@ -51,4 +51,8 @@
   <img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar/termux-wabot%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br>
 
+<a href="http://mhankbarbar.moe/"
+  <img alt="api" src="https://img.shields.io/badge/MhankBarBar/Apis%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+ </a>
